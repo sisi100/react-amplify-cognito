@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Amplifyの設定
+
+```
+amplify init
+amplify add auth
+amplify push
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
